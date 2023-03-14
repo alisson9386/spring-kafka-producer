@@ -1,6 +1,6 @@
 package br.com.springdesafio.backend.producer;
 
-import br.com.springdesafio.backend.controller.CarDTO;
+import br.com.springdesafio.backend.dto.CarDTO;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;

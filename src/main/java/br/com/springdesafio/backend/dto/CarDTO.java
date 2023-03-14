@@ -1,4 +1,4 @@
-package br.com.springdesafio.backend.controller;
+package br.com.springdesafio.backend.dto;
 
 import lombok.Builder;
 import lombok.Data;

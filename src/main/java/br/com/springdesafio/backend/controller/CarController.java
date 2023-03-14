@@ -3,6 +3,7 @@ package br.com.springdesafio.backend.controller;
 import java.util.UUID;
 
 
+import br.com.springdesafio.backend.dto.CarDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

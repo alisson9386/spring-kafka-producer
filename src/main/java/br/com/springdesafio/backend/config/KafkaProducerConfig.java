@@ -1,6 +1,6 @@
 package br.com.springdesafio.backend.config;
 
-import br.com.springdesafio.backend.controller.CarDTO;
+import br.com.springdesafio.backend.dto.CarDTO;
 import org.apache.kafka.clients.admin.NewTopic;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;
